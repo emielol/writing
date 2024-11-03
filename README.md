@@ -1,6 +1,9 @@
 # writing
 My other stuff that isn't just coding
 
+Learn about AI bias and the need for younger diversity in my TEDx Talk
+https://youtu.be/3xT7gKU9ebg?si=g18il8YkYuCyCrIz
+
 Check out my article about AI in Drug Discovery 
 https://medium.com/@noeflo8006/the-cure-for-the-future-with-a-dose-of-caution-c2e62913bf39
 
