@@ -1,5 +1,6 @@
 # writing
 Articles and TEDx Talk
+
 Learn about AI bias and the need for younger diversity in my TEDx Talk
 https://youtu.be/3xT7gKU9ebg?si=g18il8YkYuCyCrIz
 
